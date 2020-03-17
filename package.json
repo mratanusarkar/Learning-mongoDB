@@ -1,0 +1,19 @@
+{
+  "name": "learning-mongodb",
+  "version": "1.0.0",
+  "description": "files for learning MongoDB with the help of YouTube tutorials playlist on The Net Ninja YouTube channel.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "learn",
+    "mongoDB"
+  ],
+  "author": "Atanu Sarkar, Net Ninja",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^7.0.1",
+    "mongoose": "^5.9.1"
+  }
+}

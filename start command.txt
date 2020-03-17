@@ -1,0 +1,9 @@
+// Start your MongoDB database
+
+> "C:\Program Files\MongoDB\Server\4.2\bin\mongod.exe" --dbpath D:\MongoDB\data\db
+[initandlisten] waiting for connections
+
+
+// Connect to MongoDB
+
+> "C:\Program Files\MongoDB\Server\4.2\bin\mongo.exe"
